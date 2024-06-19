@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Danilo Logatto 🖐️
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://miro.medium.com/v2/resize:fit:1400/1*cD8WMb82cSXACDTG8mlWhw.gif" />
 &nbsp;&nbsp;&nbsp;
 
 
